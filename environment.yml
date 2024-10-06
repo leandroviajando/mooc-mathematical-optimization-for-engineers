@@ -1,0 +1,10 @@
+name: mooc-mathematical-optimization-for-engineers
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - autograd
+  - scikit-learn
+  - ipykernel
